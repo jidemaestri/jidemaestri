@@ -16,11 +16,11 @@
 <br>
 ⚡ Fun fact: I like sports specially Football, I am River Plate fan and I watch Manchester United, Barcelona and Juventus too. I like NBA too (Lakers Fan).
 <br>
-
-📖 ✒️ I am Da Vinci fan so I say:
-“Simplicity is the ultimate sophistication."
-"Learning never exhausts the mind."
-"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."
+<br>
+📖 ✒️ I am Da Vinci fan so I say:<br>
+“Simplicity is the ultimate sophistication."<br>
+"Learning never exhausts the mind."<br>
+"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."<br>
 
 
 
