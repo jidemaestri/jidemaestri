@@ -5,7 +5,7 @@
 
 I am Argentinian and I am very passionate about Data, Engineering (Aerospace and Automotive!), Technology and Finance.
 
-### Learning Path: 
+## Learning Path: 
 
 Mechanical Engineer ---> Master of Business Administration ---> 📊 Data Science & Machine Learning 
 
