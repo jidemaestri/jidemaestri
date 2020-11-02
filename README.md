@@ -4,7 +4,7 @@
 
 <b>Learning Path:</b> 
 
- 🔧⚙️ Mechanical Engineer ---> 📄 Master of Business Administration ---> 📊 Data Science & Machine Learning 
+ 🔧⚙️ Mechanical Engineer -> 📄 Master of Business Administration -> 📊 Data Science & Machine Learning 
 
 <br>
 📌 I am looking for Data Science and Machine Learning projects. I’m currently working in Oil & Gas Industry. I have previously worked in automotive industry (Mercedes-Benz & Metalsa)
