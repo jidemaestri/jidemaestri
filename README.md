@@ -7,7 +7,7 @@
  🔧⚙️ Mechanical Engineer >> 📄 Master of Business Administration >> 📊 Data Science & Machine Learning 
 
 <br>
-📌 I am looking for Data Science and Machine Learning projects. I’m currently working in Oil & Gas Industry. I have previously worked in automotive industry (Mercedes-Benz & Metalsa)
+📌 I am looking for Data Science and Machine Learning projects. I’m currently working as Business Intelligent Analyst. I have previously worked in automotive industry (Mercedes-Benz & Metalsa)
 <br>
 🌱 Always learning new tools and trying to develop new skills. 
 
