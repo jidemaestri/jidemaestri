@@ -7,7 +7,7 @@
  🔧⚙️ Mechanical Engineer >> 📄 Master of Business Administration >> 📊 Data Scientist
 
 <br>
-📌 I’m currently working as Data Scientist in Food&Beverage industry. I have previously worked in automotive industry (Mercedes-Benz & Metalsa)
+📌 I’m currently working as Leat Data Scientist @ Arcor - Consumer goods industry. I have previously worked in automotive industry (Mercedes-Benz & Metalsa)
 <br>
 🌱 Always learning new tools and trying to develop new skills. 
 
