@@ -1,4 +1,4 @@
-## Hi there, I'm Juan 👋😄☕ 
+## Hey there, I'm Juan 👋😄☕ 
 
  🚀 I am very passionate about Data, Art & Technology. 
  
